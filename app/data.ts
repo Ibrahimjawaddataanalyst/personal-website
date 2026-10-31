@@ -1,7 +1,7 @@
 // ✏️ EDIT THIS FILE: all the text on your website lives here.
 
 export const profile = {
-  name: "Ibraahim Jawaad",
+  name: "Muhammad Ibrahim Ahmed",
   initials: "IJ",
   role: "Data Science Student",
   university: "DHA Suffa University",
